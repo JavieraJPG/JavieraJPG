@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hola, soy Javiera  
 
-<!--
-**JavieraJPG/JavieraJPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante en formación en desarrollo y datos  
+☁️ Interesada en tecnologías cloud y soluciones basadas en datos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí  
+Soy estudiante del bootcamp Generation.  
+Me interesa el desarrollo y el área de datos, y estoy enfocada en aprender de forma práctica para seguir creciendo en tecnología.
+
+---
+
+## 📌 En lo que estoy ahora  
+- 💻 Aprendiendo desarrollo web  
+- ☁️ Explorando herramientas cloud  
+- 📊 Introduciéndome en el mundo de los datos  
+
+---
+
+## 🛠 Tecnologías  
+
+**Lenguajes**  
+Python · JavaScript  
+
+**Desarrollo Web**  
+HTML · CSS  
+
+**Datos & Cloud**  
+Snowflake · AWS  
+
+**Herramientas**  
+Git · GitHub · Confluence  
+
+---
+
+## 🎯 Objetivo  
+Seguir desarrollándome en tecnología, combinando desarrollo y datos, y construir una base sólida para el mundo laboral.
+
+---
+
+## ✨ Un poco de mí  
+_"La constancia le gana a la perfección."_  
